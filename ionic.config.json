@@ -1,0 +1,7 @@
+{
+  "name": "cosden-solutions",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
